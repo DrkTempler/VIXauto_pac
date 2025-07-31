@@ -19,15 +19,22 @@ https://www.python.org/downloads/
 VIXauto는 Python기반 소스코드를 RobotFramework 프레임워크를 통해 제공합니다.      
 사용자는 Python 설치 후, 터미널을 열어 아래 명령어를 입력하십시오.   
 제공되는 requirements 파일을 통해, 자동으로 프레임워크 및 라이브러리를 설치합니다.   
-   
->  pip install -r requirements.txt   
+<pre>
+      <code>
+            
+            pip install -r requirements.txt   
+      </code>
+</pre>
       
 혹은, 별개 명령어를 통해 설치를 진행할 수 있습니다.      
->  pip install robotframework   
->  pip install robotframework-seleniumlibrary   
->  pip install selenium   
->  pip install requests   
-      
+<pre>
+<code>
+```python
+pip install requests
+            pip install 
+```
+</code>
+</pre> 
 ## 화면 설명
    <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/9bff7725-877f-45c6-8895-97506dda9df4" />
 
