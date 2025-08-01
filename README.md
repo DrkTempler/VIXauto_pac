@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ```
       
 혹은, 별개 명령어를 통해 설치를 진행할 수 있습니다.      
-VIXauto는 아래 라이브러리들이 없이는 실행이 불가하며, 시도시 Module error가 발생합니다. 꼭 설치하신 후 진행해주세요.
+VIXauto는 아래 모듈들 없이는 실행이 불가하며, 시도시 Module error가 발생합니다. 꼭 설치하신 후 진행해주세요.
 
 ```
 터미널
