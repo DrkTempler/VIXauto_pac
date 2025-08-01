@@ -97,6 +97,18 @@ pip install pymediainfo  // video 메타데이터 확인
 - Electron 기반 UI 제공   
 - Result 폴더 3종 추가: 클릭하면 테스트 결과(리포트, 캡쳐파일, 영상파일)가 저장되는 경로를 오픈합니다.
 
+### Module   
+- VIXcam 테스트 스위트 분할 제작 완료
+
+
+
+### TestCase   
+- 연동 테스트 케이스 제작 완료
+
+
+
+*****
+
 ### 문의사항
 만든사람   
 품질팀 이상윤   
