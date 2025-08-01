@@ -1,7 +1,7 @@
 # VIXauto_v0.8.0
 ### VIXauto?  
 인텔리빅스의 Web / App UI를 가지는 Product에 대한 자동화 테스트 통합 런처입니다.         
-현재 버전에서는 VIXcam을 지원하고 있습니다.   
+현재 버전에서는 VIXcam만 지원하고 있습니다.(4분기 내 VIXair 지원 예정) 
 VIXauto에서는 Product별로 아래와 같은 자동화 테스트를 수행할 수 있습니다.   
 *****
 ### VIXcam
