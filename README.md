@@ -1,4 +1,4 @@
-# VIXauto
+# VIXauto_v0.8.0
 ### VIXauto?  
 인텔리빅스의 Web / App UI를 가지는 Product에 대한 자동화 테스트 통합 런처입니다.         
 현재 버전에서는 VIXcam을 지원하고 있습니다.   
@@ -69,7 +69,7 @@ pip install pymediainfo  // video 메타데이터 확인
    
 
 
-## Ver 1.0 Release Note
+## Ver 0.8.0 Release Note
 ### UI
 - Electron 기반 UI 제공   
 - Result 폴더 3종 추가: 클릭하면 테스트 결과(리포트, 캡쳐파일, 영상파일)가 저장되는 경로를 오픈합니다.
