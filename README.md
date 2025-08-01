@@ -65,8 +65,27 @@ pip install openpyxl  // excel파일 생성
 pip install pymediainfo  // video 메타데이터 확인
 ```
 
-## 화면 설명
-   
+## 화면 설명   
+### 메인화면   
+   <img width="740" height="609" alt="image" src="https://github.com/user-attachments/assets/e66f6dee-a414-4190-9930-20abdf57f8e2" />
+
+①: 디렉토리내 Test Result 폴더가 열립니다. 테스트 리포트를 확인할 수 있습니다.   
+②: 디렉토리내 Capture Result 폴더가 열립니다. 동작성 테스트의 결과값들을 캡쳐파일로 확인할 수 있습니다.   
+③: 디렉토리내 Video Result 폴더가 열립니다. 녹화영상들을 확인할 수 있습니다.   
+④: 귀여운 타이틀   
+⑤: VIXcam 테스트 모듈 영역입니다.   
+    > ⑤-1: 필수 입력필드입니다. 테스트 대상의 ip / id / pw값을 입력하신 후 테스트 버튼을 눌러주세요.   
+    > ⑤-2: 테스트 버튼입니다. 각 테스트 버튼의 역할은 문서 상단의 VIXcam 소개 영역을 참조하십시오.   
+⑥: VIXair 테스트 모듈 영역입니다.   
+
+### 결과화면   
+   <img width="587" height="441" alt="image" src="https://github.com/user-attachments/assets/b2a9916b-cc10-4ba2-b835-1d4438fd3667" />
+
+
+①: 실행완료 텍스트   
+②: 테스트 케이스명  {PASS} or {FAIL} 출력   
+③: 실행한 테스트 스위트 명 및 전체 결과 출력   
+
 
 
 ## Ver 0.8.0 Release Note
