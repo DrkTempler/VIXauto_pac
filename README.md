@@ -52,15 +52,16 @@ pip install -r requirements.txt
 ```
       
 혹은, 별개 명령어를 통해 설치를 진행할 수 있습니다.      
+VIXauto는 아래 라이브러리들이 없이는 실행이 불가하며, 시도시 Module error가 발생합니다. 꼭 설치하신 후 진행해주세요.
 
 ```
 터미널
-pip install requests  
-pip install selenium
-pip install robotframework 
-pip install robotframework-seleniumlibrary
-pip install openpyxl
-pip install 
+pip install requests  // video 다운로드시 사용
+pip install selenium  // UI 자동화 사용
+pip install robotframework   // 테스트 단위화 및 리포트 추출
+pip install robotframework-seleniumlibrary  // 로봇프레임워크에서 사용
+pip install openpyxl  // excel파일 생성
+pip install pymediainfo  // video 메타데이터 확인
 ```
 
 ## 화면 설명
