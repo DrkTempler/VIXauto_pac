@@ -48,6 +48,7 @@ VIXauto는 Python기반 소스코드를 RobotFramework 프레임워크를 통해
 
 ```
 터미널
+cd {requirements.txt가 존재하는 디렉토리}
 pip install -r requirements.txt   
 ```
       
